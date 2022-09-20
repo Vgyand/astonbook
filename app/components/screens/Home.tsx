@@ -1,7 +1,13 @@
-import { FC } from "react";
+import { FC } from 'react'
+
+import Meta from '@/utils/Meta/Meta'
 
 const MainPage: FC = () => {
-  return <div>Home</div>;
-};
+	return (
+		<Meta title="Aston" description="Book store">
+			Jija
+		</Meta>
+	)
+}
 
-export default MainPage;
+export default MainPage
