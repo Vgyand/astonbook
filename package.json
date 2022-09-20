@@ -21,7 +21,8 @@
     "react-icons": "^4.4.0",
     "react-query": "^3.39.2",
     "react-redux": "^8.0.2",
-    "sass": "^1.52.1"
+    "sass": "^1.52.1",
+    "tailwind": "^4.0.0"
   },
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "^3.2.0",

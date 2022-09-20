@@ -5,7 +5,7 @@ import Meta from '@/utils/Meta/Meta'
 const MainPage: FC = () => {
 	return (
 		<Meta title="Aston" description="Book store">
-			Jija
+			Jijaa
 		</Meta>
 	)
 }
